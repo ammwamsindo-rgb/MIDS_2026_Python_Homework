@@ -1,0 +1,5 @@
+6736e50c54cced51f8c21509cdf58c02cf243582 HW1-1
+977bedebf270a83bb0734efa064c3603500ca0c7 Add HW1 outputs for Q1-1 and Q1-2
+6f24bc2f403d4801d0409364383dabeda6cd4a25 HW1-1: Q1-1 and Q1-2 initial submission
+301c30fee7e600c84d1b10b2727077f61204eea2 Move HW_01.ipynb into homework_01 folder
+c612d36680b3d1a1abe3c7888eb2bd6acc985cc2 HW1-4 assign mumin letter grade 'A'
